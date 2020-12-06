@@ -29,6 +29,7 @@
     "prettier/prettier": "error",
     "react/prop-types": "off",
     "react/jsx-props-no-spreading": "off",
+    "@typescript-eslint/no-empty-function": "off",
     "no-use-before-define": "off",
     "import/extensions": [
       "error",
