@@ -4,6 +4,6 @@ interface AuthContextData {
   name: string;
 }
 
-const AuthContext = createContext<AuthContextData>({} as AuthContext);
+const AuthContext = createContext<AuthContextData>({} as AuthContextData);
 
 export default AuthContext;
