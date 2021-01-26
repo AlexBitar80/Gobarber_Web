@@ -25,6 +25,7 @@
     "prettier"
   ],
   "rules": {
+    "import/no-duplicates": "off",
     "@typescript-eslint/explicit-module-boundary-types": "off",
     "prettier/prettier": "error",
     "react/prop-types": "off",
