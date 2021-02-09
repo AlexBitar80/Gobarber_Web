@@ -1,16 +1,29 @@
-<h2 align="center">
+<h3 align="center">
 	BootCamp Gostack - GoBarber Web
-</h2>
+</h3>
 
-<h5 align="center">
-  Essa aplicação foi desenvolvida como projeto principal do Bootcamp Gostack da Rocketseat.
-</h5>
-
+</div>
 <p align="center">
+  Essa aplicação foi desenvolvida como projeto principal do Bootcamp Gostack da Rocketseat. <br/>
   O GoBarber é uma aplicação que permite que prestadores de serviços de barberia possam se cadastrar e vizualizar os seus agendamentos.
 </p>
 
 <br/>
+
+<p align="center">
+  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/AlexBitar80/GoRestaurant-Mobile?style=social">
+
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/AlexBitar80/GoRestaurant-Mobile">
+
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AlexBitar80/GoRestaurant-Mobile?style=social">
+
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AlexBitar80/GoRestaurant-Mobile">
+
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AlexBitar80/GoRestaurant-Mobile">
+</p>
+
+<br/>
+
 
 <p align="center">
   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/AlexBitar80/Gobarber_Web?style=social">
