@@ -1,12 +1,10 @@
-<h2 align="center">
+<h3 align="center">
 	BootCamp Gostack - GoBarber Web
-</h2>
+</h3>
 
-<h5 align="center">
-  Essa aplicação foi desenvolvida como projeto principal do Bootcamp Gostack da Rocketseat.
-</h5>
-
+</div>
 <p align="center">
+  Essa aplicação foi desenvolvida como projeto principal do Bootcamp Gostack da Rocketseat. <br/>
   O GoBarber é uma aplicação que permite que prestadores de serviços de barberia possam se cadastrar e vizualizar os seus agendamentos.
 </p>
 
