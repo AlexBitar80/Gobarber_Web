@@ -50,7 +50,7 @@ O projeto está utilizando as seguintes tecnologias:
   <strong>Obs: A aplicação possui um  backend, para ter acesso ao       retorno dos dados faça o clone do <a href="https://github.com/AlexBitar80/Gobarber_backend">backend</a> siga o passo a passo para roda-lo e inicie este projeo</strong>
 </h5>
 
-Para clonar e rodar esse projeto você vai precisar do [Node](https://nodejs.org/en/) do [Yarn](https://yarnpkg.com/) ou do [Npm](https://www.npmjs.com/get-npm) e do [Git](https://git-scm.com/) instalado na rua máquina.
+Para clonar e rodar esse projeto você vai precisar do [Node](https://nodejs.org/en/) do [Yarn](https://yarnpkg.com/) ou do [Npm](https://www.npmjs.com/get-npm) e do [Git](https://git-scm.com/) instalado na sua máquina.
 
 ```bash
 # Faça o clone deste repositório para qualquer pasta de sua preferencia
